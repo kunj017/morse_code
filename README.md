@@ -2,7 +2,7 @@
 
 This is the project file of MORSE_CODE_ENCODER project by CSE 3rd sem students.
 
-#The .circ file of morse code is included and can be run by the following steps:
+# The .circ file of morse code is included and can be run by the following steps:
 
 1.Download the .circ file
 
